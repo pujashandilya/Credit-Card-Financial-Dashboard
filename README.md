@@ -27,6 +27,16 @@ To analyze credit card customer behavior, transaction trends, revenue generation
 - Total Customers: 10K
 - Total Transactions: 656K
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- SQL Querying
+- Power BI Dashboard Development
+- DAX Measures
+- Data Visualization
+- Business Intelligence Reporting
+
 ## Dashboard Screenshots
 
 ### Customer Dashboard
