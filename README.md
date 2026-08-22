@@ -37,8 +37,23 @@ To analyze credit card customer behavior, transaction trends, revenue generation
 
 ## Project Structure
 
-Dataset/
-Images/
-Power BI/
-SQL/
-README.md
+Credit-Card-Financial-Dashboard
+│
+├── Dataset
+│   ├── customer.csv
+│   ├── credit_card.csv
+│   ├── cc_add.csv
+│   └── cust_add.csv
+│
+├── Images
+│   ├── customer_dashboard.png
+│   └── transaction_dashboard.png
+│
+├── SQL
+│   └── credit_card_financial_dashboard.sql
+│
+├── Power BI
+│   └── Credit_Card_Financial_Dashboard.pbix
+│
+└── README.md
+
