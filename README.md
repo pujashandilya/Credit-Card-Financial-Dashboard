@@ -37,6 +37,7 @@ To analyze credit card customer behavior, transaction trends, revenue generation
 
 ## Project Structure
 
+```text
 Credit-Card-Financial-Dashboard
 │
 ├── Dataset
@@ -56,4 +57,4 @@ Credit-Card-Financial-Dashboard
 │   └── Credit_Card_Financial_Dashboard.pbix
 │
 └── README.md
-
+```
