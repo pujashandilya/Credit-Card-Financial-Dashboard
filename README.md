@@ -3,6 +3,10 @@
 ## Project Overview
 Developed an interactive Credit Card Financial Dashboard using Power BI and MySQL to analyze customer behavior, transaction trends, revenue generation, and card performance.
 
+## Project Objective
+
+To analyze credit card customer behavior, transaction trends, revenue generation, and interest earnings using MySQL and Power BI. The dashboard provides insights into customer demographics, spending patterns, card category performance, and quarterly revenue trends.
+
 ## Tools Used
 - Power BI
 - MySQL
