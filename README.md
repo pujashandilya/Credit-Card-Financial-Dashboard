@@ -1,0 +1,40 @@
+# Credit Card Financial Dashboard
+
+## Project Overview
+Developed an interactive Credit Card Financial Dashboard using Power BI and MySQL to analyze customer behavior, transaction trends, revenue generation, and card performance.
+
+## Tools Used
+- Power BI
+- MySQL
+- Power Query
+- DAX
+- CSV Datasets
+
+## Key Features
+- Customer Analysis Dashboard
+- Transaction Analysis Dashboard
+- Revenue Tracking
+- Interest Earned Analysis
+- Card Category Performance
+
+## KPIs
+- Total Revenue: 46M
+- Total Interest Earned: 7.98M
+- Total Customers: 10K
+- Total Transactions: 656K
+
+## Dashboard Screenshots
+
+### Customer Dashboard
+![Customer Dashboard](Images/customer_dashboard.png)
+
+### Transaction Dashboard
+![Transaction Dashboard](Images/transaction_dashboard.png)
+
+## Project Structure
+
+Dataset/
+Images/
+Power BI/
+SQL/
+README.md
